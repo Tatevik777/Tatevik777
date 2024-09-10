@@ -2,7 +2,7 @@
 I'm Tatevik, frontend developer 👨‍💻 who is passionate about JavaScript technologies and all about beautiful design.
 That's why I decided to switch from teaching English to programming
 
--🌱 Currently I'm studying React.
+- 🌱 Currently I'm studying React.
 - 💬 Ask me about: teaching, movies, art and anything you would like to talk about.
 - ⚡ Technologies: HTML, CSS, JAVASCRIPT, GIT.
 

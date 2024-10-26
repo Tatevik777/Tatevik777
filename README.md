@@ -25,5 +25,5 @@ That's why I decided to switch from teaching English to programming
 
 ### Contacts:
 [![Linkedin Badge](https://img.shields.io/badge/-tatevik-yellow?style=flat-square&logo=Linkedin&color=blue&link=https://www.linkedin.com/in/ereburg/)](https://www.linkedin.com/in/tata-khachatryan-41557061/)
-[![Telegram Badge](https://img.shields.io/badge/-tatevik-blue?style=flat-square&logo=Telegram&logoColor=white&color=blue&link=https://t.me/tatoshka_emerald)](https://t.me/tatoshka_emerald)
+[![Telegram Badge](https://img.shields.io/badge/-tatevik-blue?style=flat-square&logo=Telegram&logoColor=white&color=blue&link=https://t.me/moonatata)](https://t.me/moonatata)
 

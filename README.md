@@ -9,17 +9,12 @@ That's why I decided to switch from teaching English to programming.
 
    <div>
   <img src="https://github.com/Tatevik777/Tatevik777/blob/main/icons/java.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/Tatevik777/icons/icons/images.png" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/elencodes/elencodes/blob/main/skills-tools-icons/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/elencodes/elencodes/blob/main/skills-tools-icons/redux-original-wordmark.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/elencodes/elencodes/blob/main/skills-tools-icons/mobx-original-wordmark.svg" title="MobX" alt="MobX" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/elencodes/elencodes/blob/main/skills-tools-icons/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/elencodes/elencodes/blob/main/skills-tools-icons/html5-original-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/elencodes/elencodes/blob/main/skills-tools-icons/css3-original-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/elencodes/elencodes/blob/main/skills-tools-icons/vite-original-wordmark.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/elencodes/elencodes/blob/main/skills-tools-icons/webpack-original-wordmark.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Tatevik777/Tatevik777/blob/main/icons/images.png" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Tatevik777/Tatevik777/blob/main/icons/react-icon-512x512-u6e60ayf.png" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Tatevik777/Tatevik777/blob/main/icons/javascript.pngtitle="JS" alt="JS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Tatevik777/Tatevik777/blob/main/icons/git-icon-13.jpg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/elencodes/elencodes/blob/main/skills-tools-icons/git-original-wordmark1.svg" title="Git" alt="Git" width="50" height="40"/>&nbsp;
-  <img src="https://github.com/elencodes/elencodes/blob/main/skills-tools-icons/figma-original-wordmark.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+
 </div>
 
 <p align="justify">

@@ -8,8 +8,8 @@ That's why I decided to switch from teaching English to programming.
 - ⚡ Technologies:
 
    <div>
-  <img src="https://github.com/elencodes/elencodes/blob/main/skills-tools-icons/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/elencodes/elencodes/blob/main/skills-tools-icons/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Tatevik777/icons/icons/free-java-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-language-pack-logos-icons-1174953.webp" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Tatevik777/icons/icons/images.png" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/elencodes/elencodes/blob/main/skills-tools-icons/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/elencodes/elencodes/blob/main/skills-tools-icons/redux-original-wordmark.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/elencodes/elencodes/blob/main/skills-tools-icons/mobx-original-wordmark.svg" title="MobX" alt="MobX" width="40" height="40"/>&nbsp;

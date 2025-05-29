@@ -1,5 +1,5 @@
 ## Hi 👋,
-I'm Tata , future fullstack developer 👨‍💻 who is passionate about Java, Javascript and beautiful design.
+I'm Tata, future fullstack developer 👨‍💻 who is passionate about Java, Javascript and beautiful design.
 Also, I dream to learn mobile app development.
 That's why I decided to switch from teaching English to programming.
 
@@ -11,10 +11,8 @@ That's why I decided to switch from teaching English to programming.
   <img src="https://github.com/Tatevik777/Tatevik777/blob/main/icons/java.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Tatevik777/Tatevik777/blob/main/icons/images.png" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Tatevik777/Tatevik777/blob/main/icons/react-icon-512x512-u6e60ayf.png" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/Tatevik777/Tatevik777/blob/main/icons/javascript.pngtitle="JS" alt="JS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Tatevik777/Tatevik777/blob/main/icons/javascript.png" title="JS" alt="JS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Tatevik777/Tatevik777/blob/main/icons/git-icon-13.jpg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/elencodes/elencodes/blob/main/skills-tools-icons/git-original-wordmark1.svg" title="Git" alt="Git" width="50" height="40"/>&nbsp;
-
 </div>
 
 <p align="justify">

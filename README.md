@@ -6,6 +6,7 @@ That's why I decided to switch from teaching English to programming.
 - 🌱 Currently I'm studying Java and Javacript/React.
 - 💬 Ask me about: teaching, movies, art and anything you would like to talk about.
 - ⚡ Technologies:
+
    <div>
   <img src="https://github.com/elencodes/elencodes/blob/main/skills-tools-icons/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/elencodes/elencodes/blob/main/skills-tools-icons/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;

@@ -10,11 +10,13 @@ That's why I decided to switch from teaching English to programming.
    <div>
   <img src="https://github.com/Tatevik777/Tatevik777/blob/main/icons/java.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Tatevik777/Tatevik777/blob/main/icons/images.png" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Tatevik777/Tatevik777/blob/main/icons/postgresql-plain-wordmark-icon-2048x2042-up54u54l.png" title="sql" alt="sql" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Tatevik777/Tatevik777/blob/main/icons/react-icon-512x512-u6e60ayf.png" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Tatevik777/Tatevik777/blob/main/icons/javascript.png" title="JS" alt="JS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Tatevik777/Tatevik777/blob/main/icons/git-icon-13.jpg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Tatevik777/Tatevik777/blob/main/icons/HTML5_logo_and_wordmark.svg.png" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/Tatevik777/Tatevik777/blob/main/icons/free-css3-logo-icon-download-in-svg-png-gif-file-formats--css-wordmark-programming-langugae-language-pack-logos-icons-1175200.webp" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/Tatevik777/Tatevik777/blob/main/icons/bootstrap.png" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
 </div>
 
 <p align="justify">

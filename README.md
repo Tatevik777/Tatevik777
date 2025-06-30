@@ -1,5 +1,5 @@
 ## Hi 👋,
-I'm Tata, future fullstack developer 👨‍💻 who is passionate about Java, Javascript and beautiful design.
+I'm Tata, future backend developer 👨‍💻 who is passionate about Java, Javascript and beautiful design too.
 Also, I dream to learn mobile app development.
 That's why I decided to switch from teaching English to programming.
 
